@@ -1,0 +1,30 @@
+{
+    "project_info": {
+      "project_number": "474230374758",
+      "project_id": "cannadex-f7758",
+      "storage_bucket": "cannadex-f7758.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:474230374758:android:e1d546042cbb8f62f2c8a7",
+          "android_client_info": {
+            "package_name": "com.cannadexapp"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDeK0T3GU-Gsq5lJ_xppWGRSvzTj4D-eMs"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  

@@ -9,6 +9,8 @@ import com.facebook.react.ReactNativeHost
 import com.facebook.react.ReactPackage
 import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.facebook.react.defaults.DefaultReactNativeHost
+import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
+import com.swmansion.rnscreens.RNScreensPackage;
 
 class MainApplication : Application(), ReactApplication {
 
